@@ -2,7 +2,7 @@
 
 ## 利用規約
 
-2024年4月1日　更新  RAMUNE SPARK
+2024年4月1日　更新<br>RAMUNE SPARK
 
 ### 基本的事項
 

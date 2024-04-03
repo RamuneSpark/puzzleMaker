@@ -1,0 +1,36 @@
+  body {
+    touch-action: none;
+}
+
+#screen{
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        overflow: hidden;
+        z-index: 0;
+        user-select: none;
+   
+    }
+
+ 
+
+#script_error{
+          position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        overflow: hidden;
+        z-index: 0;
+        user-select: none;
+         width: 100%;
+    height: 100%;
+   
+     }
+    
+    #script_error img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+                user-select: none;
+}

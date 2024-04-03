@@ -29,5 +29,5 @@
 
 * お問い合わせはTwitterのラムネアカウント（@RAMUNE_SPARK）までお願いします。ただし、ラムネからの回答を保証するものではございません。
 
-<br>2024年4月1日　更新<br>RAMUNE SPARK
+<br>2024年4月4日　更新<br>RAMUNE SPARK
 

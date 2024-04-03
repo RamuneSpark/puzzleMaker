@@ -27,7 +27,7 @@
 
 * 本サービスや本規約は、予告なく変更・削除となる場合があります。
 
-* お問い合わせはTwitterのラムネアカウント（[@RAMUNE_SPARK](https://twitter.com/RAMUNE_SPARK)までお願いします。ただし、ラムネからの回答を保証するものではございません。
+* お問い合わせはTwitterのラムネアカウント（[@RAMUNE_SPARK](https://twitter.com/RAMUNE_SPARK)）までお願いします。ただし、ラムネからの回答を保証するものではございません。
 
 <br>2024年4月4日　更新<br>RAMUNE SPARK
 

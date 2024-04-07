@@ -131,7 +131,7 @@ https://ramunespark.github.io/puzzleMaker/
 
 ## sweetAlert2について
 
-このプロジェクトはsweetAlert2を使用しています。
+本サービスはsweetAlert2を使用しています。
 
 sweetAlert2は、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。

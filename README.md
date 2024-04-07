@@ -129,9 +129,9 @@ https://ramunespark.github.io/puzzleMaker/
 <br>※クリエイトパズルの画像は記録カードに掲載されません。<br>※ダウンロードまでに少し時間がかかることがあります。<br>※20字を超えるユーザーネームは使用できません。<br>※一度決めたユーザーネームは、ページの再読込みまたは次のパズルをクリアするまで変更できません。
 
 
-## sweetAlert2について
+## MITライセンスに関する事項
 
-本サービスはsweetAlert2を使用しています。
+このプロジェクトはsweetAlert2を使用しています。
 
 sweetAlert2は、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
@@ -140,6 +140,20 @@ sweetAlert2は、MITライセンスの下で公開されています。
 The MIT License (MIT)
 
 Copyright (c) 2014 Tristan Edwards & Limon Monte
+
+----------------------------------------------------
+
+このプロジェクトはanimate.cssを使用しています。
+
+sweetAlert2は、MITライセンスの下で公開されています。
+詳細については、下記をご覧ください。
+
+
+The MIT License (MIT)
+
+Copyright (c) 2020 Daniel Eden
+
+----------------------------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -158,4 +172,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-

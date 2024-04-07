@@ -61,7 +61,7 @@ https://ramunespark.github.io/puzzleMaker/
 * ユーザーが選択した画像について、本サービスが端末外部やサーバーに送信することはないのでご安心ください。
 
 
-<br>2024年4月6日　更新<br>RAMUNE SPARK<br><br>
+<br>2024年4月8日　更新<br>RAMUNE SPARK<br><br>
 
 
 ## 使い方

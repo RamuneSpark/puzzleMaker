@@ -149,7 +149,7 @@ sweetAlert2は、MITライセンスの下で公開されています。
 
 Copyright (c) 2020 Daniel Eden
 
-sweetAlert2は、MITライセンスの下で公開されています。
+animate.cssは、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
 
 

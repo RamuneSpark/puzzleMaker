@@ -3,4 +3,3 @@ Disallow: /image/
 Disallow: /sys/
 Disallow: /css/
 Disallow: /js/
-Disallow: /mp3/

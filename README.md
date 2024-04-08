@@ -128,6 +128,10 @@ https://ramunespark.github.io/puzzleMaker/
 パズルをクリアすると、「**記録カード**」（JPG）がダウンロードできます。<br>記録カードにはパズルの条件やクリアタイム、ユーザーネームが表記され、記録を見返せる形で保管できます。
 <br>※クリエイトパズルの画像は記録カードに掲載されません。<br>※ダウンロードまでに少し時間がかかることがあります。<br>※20字を超えるユーザーネームは使用できません。<br>※一度決めたユーザーネームは、ページの再読込みまたは次のパズルをクリアするまで変更できません。
 
+## クレジット
+
+* メインプログラム / キャラデザイン・イラスト / UIデザイン / アニメ制作（プリセットD） / サウンドFX / プラン・ディレクション
+  - ラムネ（ラムネ'01）
 
 ## MITライセンスに関する事項
 
@@ -154,6 +158,7 @@ The MIT License (MIT)
 Copyright (c) 2020 Daniel Eden
 
 ----------------------------------------------------
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

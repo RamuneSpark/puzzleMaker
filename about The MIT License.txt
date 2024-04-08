@@ -1,26 +1,23 @@
 このプロジェクトはsweetAlert2を使用しています。
 
+Copyright (c) 2014 Tristan Edwards & Limon Monte
+
 sweetAlert2は、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
 
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Tristan Edwards & Limon Monte
 
 ----------------------------------------------------
 
 このプロジェクトはanimate.cssを使用しています。
 
-sweetAlert2は、MITライセンスの下で公開されています。
+Copyright (c) 2020 Daniel Eden
+
+animate.cssは、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
 
 
-The MIT License (MIT)
-
-Copyright (c) 2020 Daniel Eden
-
 ----------------------------------------------------
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

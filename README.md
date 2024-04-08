@@ -137,25 +137,21 @@ https://ramunespark.github.io/puzzleMaker/
 
 このプロジェクトはsweetAlert2を使用しています。
 
+Copyright (c) 2014 Tristan Edwards & Limon Monte
+
 sweetAlert2は、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
 
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Tristan Edwards & Limon Monte
 
 ----------------------------------------------------
 
 このプロジェクトはanimate.cssを使用しています。
 
+Copyright (c) 2020 Daniel Eden
+
 sweetAlert2は、MITライセンスの下で公開されています。
 詳細については、下記をご覧ください。
 
-
-The MIT License (MIT)
-
-Copyright (c) 2020 Daniel Eden
 
 ----------------------------------------------------
 The MIT License (MIT)

@@ -1,5 +1,6 @@
 User-Agent: *
 Disallow: /image/
 Disallow: /sys/
+Disallow: /sys/ScriptError.jpg
 Disallow: /css/
 Disallow: /js/

@@ -1,6 +1,7 @@
 User-Agent: *
+Allow: /index.html
+Allow: /logo/
 Disallow: /image/
 Disallow: /sys/
-Disallow: /sys/ScriptError.jpg
 Disallow: /css/
 Disallow: /js/

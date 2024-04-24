@@ -1,6 +1,6 @@
 User-Agent: *
 Allow: /index.html
-Allow: /logo/
+Allow: /info/
 Disallow: /image/
 Disallow: /sys/
 Disallow: /css/

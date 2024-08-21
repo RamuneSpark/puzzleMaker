@@ -40,7 +40,7 @@ https://ramunespark.github.io/puzzleMaker/
 
 * 本サービスの利用によって、画像選択者が第三者より損害を被ったり、何らかのトラブルに発展したりした場合については、ラムネは一切の責任を負うことなく、画像選択者がすべての責任を被るものとします。
 
-* 本サービスの動画配信やスクリーンショット共有などを行う場合は、[配信ガイドライン](https://www.dropbox.com/scl/fi/q4epqzwf7jzps1xgf9u1t/.txt?rlkey=gz4jr8nq1adtcdb82338oekfg&dl=0)も併せてご覧ください。
+* 本サービスの動画配信やスクリーンショット共有などを行う場合は、[配信ガイドライン](https://ramunespark.github.io/guideLine/)も併せてご覧ください。
 
 * 記録カード（後述）は、**スクリーンショットと同様の条件によって**、外部への共有が許可されています。
   - 記録カードの加工はご遠慮ください。
@@ -76,7 +76,7 @@ https://ramunespark.github.io/puzzleMaker/
 * ユーザーが選択した画像について、本サービスが端末外部やサーバーに送信することはないのでご安心ください。
 
 
-<br>2024年5月1日　更新<br>RAMUNE SPARK<br><br>
+<br>2024年8月21日　更新<br>RAMUNE SPARK<br><br>
 
 
 ## 使い方

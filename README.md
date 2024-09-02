@@ -65,7 +65,7 @@ https://ramunespark.github.io/puzzleMaker/
 
 * 本サービスや本規程、使い方説明の内容は、予告なく変更・削除となる場合があります。
 
-* お問い合わせはTwitterのラムネアカウント（[@RAMUNE_SPARK](https://twitter.com/RAMUNE_SPARK)）までお願いします。ただし、ラムネからの回答を保証するものではございません。
+* お問い合わせはTwitterのラムネアカウント（[@RAMUNE_SPARK](https://twitter.com/RAMUNE_SPARK)）、またはメールアドレス（ramunespark+contact@gmail.com）までお願いします。ただし、ラムネからの回答を保証するものではございません。
 
 ### 要するに
 
